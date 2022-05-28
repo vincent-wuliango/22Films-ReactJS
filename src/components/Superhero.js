@@ -19,7 +19,7 @@ const Superhero = () => {
 							<Image src={antmanImage} alt='ANTMAN' className='images' />
 							<div className='bg-dark'>
 								<div className='text-white p-2 m-1'>
-									<Card.Title className='text-center'>DUNE</Card.Title>
+									<Card.Title className='text-center'>ANTMAN</Card.Title>
 									<Card.Text className='bg-dark text-left'>
 										This is a wider card .
 									</Card.Text>
@@ -33,7 +33,7 @@ const Superhero = () => {
 							<Image src={avengerImage} alt='AVENGER' className='images' />
 							<div className='bg-dark'>
 								<div className='text-white p-2 m-1'>
-									<Card.Title className='text-center'>DUNE</Card.Title>
+									<Card.Title className='text-center'>AVENGER</Card.Title>
 									<Card.Text className='bg-dark text-left'>
 										This is a wider card .
 									</Card.Text>
@@ -47,7 +47,7 @@ const Superhero = () => {
 							<Image src={batmanImage} alt='BATMAN' className='images' />
 							<div className='bg-dark'>
 								<div className='text-white p-2 m-1'>
-									<Card.Title className='text-center'>DUNE</Card.Title>
+									<Card.Title className='text-center'>BATMAN</Card.Title>
 									<Card.Text className='bg-dark text-left'>
 										This is a wider card .
 									</Card.Text>
@@ -61,7 +61,7 @@ const Superhero = () => {
 							<Image src={robinhoodImage} alt='ROBINHOOD' className='images' />
 							<div className='bg-dark'>
 								<div className='text-white p-2 m-1'>
-									<Card.Title className='text-center'>DUNE</Card.Title>
+									<Card.Title className='text-center'>ROBINHOOD</Card.Title>
 									<Card.Text className='bg-dark text-left'>
 										This is a wider card .
 									</Card.Text>
@@ -75,7 +75,7 @@ const Superhero = () => {
 							<Image src={spidermanImage} alt='SPIDERMAN' className='images' />
 							<div className='bg-dark'>
 								<div className='text-white p-2 m-1'>
-									<Card.Title className='text-center'>DUNE</Card.Title>
+									<Card.Title className='text-center'>SPIDERMAN</Card.Title>
 									<Card.Text className='bg-dark text-left'>
 										This is a wider card .
 									</Card.Text>
@@ -89,7 +89,7 @@ const Superhero = () => {
 							<Image src={supermanImage} alt='SUPERMAN' className='images' />
 							<div className='bg-dark'>
 								<div className='text-white p-2 m-1'>
-									<Card.Title className='text-center'>DUNE</Card.Title>
+									<Card.Title className='text-center'>SUPERMAN</Card.Title>
 									<Card.Text className='bg-dark text-left'>
 										This is a wider card .
 									</Card.Text>
